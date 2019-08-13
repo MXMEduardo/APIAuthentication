@@ -1,0 +1,2 @@
+C:\Users\eduardo.fonseca\Documents\Fontes\ITABUS.WebAPI\Authorization\obj\Debug\ITABUS.WEBApi.csprojAssemblyReference.cache
+C:\Users\eduardo.fonseca\Documents\Fontes\ITABUS.WebAPI\Authorization\obj\Debug\ITABUS.WEBApi.csproj.CoreCompileInputs.cache
